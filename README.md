@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](add your deployed link)
+* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -24,6 +24,6 @@ HTML, CSS , Fontawesome icons, GIT
 email :: kelvinkipchumba002@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/Clothing-Store/blob/master/LICENCE.md)*
+*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
 
 Copyright (c) 2024 **Kelvin Kipchumba**
